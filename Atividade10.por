@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
-    inteiro largura = 0
-    inteiro comprimento = 0
+    inteiro largura 
+    inteiro comprimento 
     escreva ("Me fale a largura e o comprimento do estadio em metros ")
     leia (largura)
     leia (comprimento)

@@ -1,6 +1,6 @@
 programa {
   funcao inicio() { 
-  inteiro metro = 0
+  inteiro metro 
   escreva ("Me fale um numero em metros e eu o transformo em centimetros! ")
   leia (metro)
   inteiro centimetros = metro * 100

@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     cadeia mae = "Tess"
     cadeia filha = "Anna"
-    cadeia auxiliar = ""
+    cadeia auxiliar
 
     escreva ("Antes da troca Mae = ", mae ," e filha = ", filha, "\n")
 
